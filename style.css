@@ -1,0 +1,92 @@
+.button1{
+    background-color:rgba(241, 4, 52, 0.993); 
+    width: px; 
+    height: 55px;
+    font-style:normal; 
+    padding-top: 15px;
+    padding-bottom: 15px; 
+    padding-right: 70px;
+    padding-left: 70px;
+    font-size:large;
+    color: white;
+    border: none;
+    text-overflow: ellipsis;
+    margin: 20px;
+    cursor: pointer;
+}
+
+.button2{
+    background-color: rgba(247, 247, 10, 0.932);
+     padding-right: 30px;
+      padding-left: 30px;
+       padding-bottom: 12px;
+       padding-top: 12px;
+        font-size:large;
+         font-family:'Trebuchet MS','Lucida Sans Unicode' 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+         color: rgb(89, 132, 250);
+         border-color: rgb(89, 132, 250);
+    border-width:3px;
+    margin: 20px;
+    cursor: pointer;
+}
+
+.button3{
+    background-color:rgba(15, 255, 255, 0.938);
+    padding-left:25px;
+    padding-right:25px;
+    padding-top:12px;
+    padding-bottom:12px;
+     font-size: larger; 
+     color: cornsilk;
+     border-style:hidden; 
+     border-radius: 50px;
+     margin: 20px;
+     cursor: pointer;
+
+}
+
+.button4{
+background-color: white;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 23px;
+padding-right: 23px;
+border-color: rgb(79, 24, 207);
+color: rgb(79, 24, 207);
+border-radius: 13px;
+margin: 20px;
+font-size: medium;
+font-weight: bold;
+border-width: medium;
+cursor: pointer;
+}
+
+.button5{
+background-color: rgb(255, 187, 1);
+padding-top: 15px;
+padding-bottom: 15px;
+padding-left: 45px;
+padding-right: 45px;
+color: white;
+border-radius: 6px;
+font-weight: bold;
+font-size: large;
+text-shadow:black;
+border-color:orange;
+margin: 20px;
+text-shadow:1px 1px 2px grey;
+cursor: pointer;
+}
+
+.button6{
+    background-color: white;
+    color:#5da9dd;
+    padding: 15px 17px;
+    border-radius: 100px;
+    font-size: large;
+    border-color:#5da9dd;
+    margin: 20px;
+    cursor: pointer;
+
+
+}
